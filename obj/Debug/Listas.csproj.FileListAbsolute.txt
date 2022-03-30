@@ -1,0 +1,7 @@
+C:\Users\Taiane\source\repos\EstruturasDados\Listas\bin\Debug\Listas.exe.config
+C:\Users\Taiane\source\repos\EstruturasDados\Listas\bin\Debug\Listas.exe
+C:\Users\Taiane\source\repos\EstruturasDados\Listas\bin\Debug\Listas.pdb
+C:\Users\Taiane\source\repos\EstruturasDados\Listas\obj\Debug\Listas.csprojResolveAssemblyReference.cache
+C:\Users\Taiane\source\repos\EstruturasDados\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+C:\Users\Taiane\source\repos\EstruturasDados\Listas\obj\Debug\Listas.exe
+C:\Users\Taiane\source\repos\EstruturasDados\Listas\obj\Debug\Listas.pdb
